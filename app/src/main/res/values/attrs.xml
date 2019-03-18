@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ProgressView">
+        <attr name="progressHeight" format="dimension" />
+        <attr name="textSize" format="dimension" />
+        <attr name="textColor" format="color" />
+        <attr name="spaceColor" format="color" />
+        <attr name="spaceWidth" format="dimension" />
+        <attr name="angleHeight" format="dimension" />
+        <attr name="finishColor" format="color" />
+        <attr name="noFinishColor" format="color" />
+        <attr name="angleColor" format="color" />
+    </declare-styleable>
+</resources>
